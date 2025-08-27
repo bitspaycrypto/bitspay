@@ -14,3 +14,12 @@ class OpenCall{
       int confirmationId;
       unsigned int confirmationRelay;
 };
+
+
+
+class smartCall{
+
+  public:
+    std::string contract_time;
+    std::string contract_call;
+}
